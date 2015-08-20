@@ -1,8 +1,7 @@
-# udacity_FSWD_movies_website
-all the code for the first project of the full stack web developer nano degree. 
-
 Project: Movie Trailer Website  - [wrathofwally]
 ================================
+udacity_FSWD_movies_website
+all the code for the first project of the full stack web developer nano degree. 
 
 Required Libraries and Dependencies
 -----------------------------------
@@ -10,7 +9,19 @@ python v2.7
 
 How to Run Project
 ------------------
-[In this section, explicitly describe the steps necessary to run your project from Github repo to the program execution. Make sure you try out these steps to verify that you didn’t overlook anything.]
+1. Download a zip of the repository at https://github.com/wrathofwally/udacity_FSWD_movies_website.
+2. unzip the contents to a memorable/usefull directory.
+3. do one of the following:
+Windows
+Open either fresh_tomatoes.py or ent_centre.py in idle and press F5.
+Linux/unix/mac
+Open a terminal, navigate to the memorable/usefull directory.
+type
+python fresh_tomatoes.py
+or
+python ent_centre.py
+
+Your default browser should open the fresh_tomatoes.html file.
 
 
 Extra Credit Description

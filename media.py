@@ -1,5 +1,7 @@
 class Movie():
-	def __init__(self, movie_title, movie_synopsis, movie_poster_image_url, movie_youtube_trailer_url):
+	"""The class Movie() defines a method for sortinf movie information."""
+	def __init__(self, movie_title, movie_synopsis, \
+	movie_poster_image_url, movie_youtube_trailer_url):
 		self.title = movie_title
 		self.synopsis = movie_synopsis
 		self.poster_image_url = movie_poster_image_url

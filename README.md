@@ -13,13 +13,10 @@ How to Run Project
 2. unzip the contents to a memorable/usefull directory.
 3. do one of the following:
 Windows
-Open either fresh_tomatoes.py or ent_centre.py in idle and press F5.
+Open ent_centre.py in idle and press F5.
 Linux/unix/mac
 Open a terminal, navigate to the memorable/usefull directory.
-type
-python fresh_tomatoes.py
-or
-python ent_centre.py
+type python ent_centre.py and hit enter.
 
 Your default browser should open the fresh_tomatoes.html file.
 
